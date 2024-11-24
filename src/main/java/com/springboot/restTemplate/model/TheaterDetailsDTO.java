@@ -8,7 +8,8 @@ public class TheaterDetailsDTO {
     private String location;
     private int totalSeats;
     private int availableSeats;
-    private List<Movie> runningMovies;
+    private List
+    <Movie> runningMovies;
 
     // Constructor
     public TheaterDetailsDTO(Long id, String name, String location, 
